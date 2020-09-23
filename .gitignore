@@ -3,6 +3,8 @@ model/
 models/
 output/
 cache/
+*.csv
+*.txt
 
 led / optimized / DLL files
 __pycache__/
